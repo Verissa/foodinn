@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="css/font-awesome.min.css">
 
   <!-- Custom stlylesheet -->
-  <link type="text/css" rel="stylesheet" href="css/style.css" />
+  <link type="text/css" rel="stylesheet" href="css/style2.css" />
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 <link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
